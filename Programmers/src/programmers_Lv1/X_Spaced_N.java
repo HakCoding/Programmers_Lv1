@@ -27,5 +27,4 @@ public class X_Spaced_N {
 		arr.forEach(i -> System.out.println(i));				// 출력
 		scanner.close();
 	}
-
 }
